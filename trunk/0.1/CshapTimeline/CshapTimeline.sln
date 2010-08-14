@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+# SharpDevelop 3.2.0.5777
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CshapTimeline", "CshapTimeline\CshapTimeline.csproj", "{5F2F022B-66CD-4B86-B2D9-734DF920FBDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B_E_Control", "B_E_Control\B_E_Control.csproj", "{C11536DC-252B-459C-AD94-5FAF25082798}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B_E_Common", "B_E_Common\B_E_Common.csproj", "{84381400-9467-4DB7-833A-2FCF5222E775}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F2F022B-66CD-4B86-B2D9-734DF920FBDE}.Debug|x86.Build.0 = Debug|x86
+		{5F2F022B-66CD-4B86-B2D9-734DF920FBDE}.Debug|x86.ActiveCfg = Debug|x86
+		{5F2F022B-66CD-4B86-B2D9-734DF920FBDE}.Release|x86.Build.0 = Release|x86
+		{5F2F022B-66CD-4B86-B2D9-734DF920FBDE}.Release|x86.ActiveCfg = Release|x86
+		{C11536DC-252B-459C-AD94-5FAF25082798}.Debug|x86.Build.0 = Debug|x86
+		{C11536DC-252B-459C-AD94-5FAF25082798}.Debug|x86.ActiveCfg = Debug|x86
+		{C11536DC-252B-459C-AD94-5FAF25082798}.Release|x86.Build.0 = Release|x86
+		{C11536DC-252B-459C-AD94-5FAF25082798}.Release|x86.ActiveCfg = Release|x86
+		{84381400-9467-4DB7-833A-2FCF5222E775}.Debug|x86.Build.0 = Debug|x86
+		{84381400-9467-4DB7-833A-2FCF5222E775}.Debug|x86.ActiveCfg = Debug|x86
+		{84381400-9467-4DB7-833A-2FCF5222E775}.Release|x86.Build.0 = Release|x86
+		{84381400-9467-4DB7-833A-2FCF5222E775}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal
